@@ -1,7 +1,7 @@
 <?php
 
 ////////////////=============[NTM CHK BOT]=============////////////////
-$botToken = "6400142306:AAHAhWj9GfKtxw9p8GWAJvtWao8o3EX0O6o"; // Enter ur bot token
+$botToken = "5418329885:AAF9IO7EzipSM5Sog_4DPMEo6VUxSf1F0ow"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
